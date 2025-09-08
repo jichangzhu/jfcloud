@@ -22,11 +22,13 @@ JFCloud疾风云机场，是实力老牌机场旗下的新开分站，是用低�
 
 ## 疾风云机场测速
 
-![JFCloud-SpeedTest](https://github.com/user-attachments/assets/6a7b7961-9312-4603-840c-4d4780125493)
+<img width="4069" height="5570" alt="JFCloud-SpeedTest-GXYD-20250905t" src="https://github.com/user-attachments/assets/b3d7df2f-30a4-4845-837d-9c0156052964" />
+
 
 ## 疾风云出入口分析
 
-![JFCloud-Network-Topology](https://github.com/user-attachments/assets/bd7adb05-356b-4d2a-8864-2f8a8ac67488)
+<img width="1797" height="5744" alt="JFCloud-Network-Topology-GXYD-20250905" src="https://github.com/user-attachments/assets/a707852d-1d53-4e0e-9268-e3bbc49e7dc2" />
+
 
 ## 疾风云跑路
 目前疾风云没有跑路，可以放心使用。
